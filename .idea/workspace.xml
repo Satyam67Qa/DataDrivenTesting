@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a21dbf2-6b7b-492d-b581-e708972465c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com.differenttypedatadriven.test/DataDrienByPropertiesFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/differenttypedatadriven/DataDrienByPropertiesFiles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +28,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Workspace/DataDrivenTesting/src/test/java/com/TestData/ExcelFacebookReg"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\DataDrivenTesting\src\test\java\com\TestData\ExcelFacebookReg" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Workspace\DataDrivenTesting\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Workspace/DataDrivenTesting/testng-parameterpassfromngfile.xml">
+  <component name="RunManager" selected="Application.DDTByExcelforOnlyOneTestData">
+    <configuration name="DDTByExcelforOnlyOneTestData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.differenttypedatadriven.DDTByExcelforOnlyOneTestData" />
+      <module name="DataDrivenTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.differenttypedatadriven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataDrienByPropertiesFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.differenttypedatadriven.test.DataDrienByPropertiesFiles" />
       <module name="DataDrivenTesting" />
@@ -101,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DDTByExcelforOnlyOneTestData" />
         <item itemvalue="TestNG.C:/Workspace/DataDrivenTesting/testng-parameterpassfromngfile.xml" />
         <item itemvalue="TestNG.DataDrivenByParameterUsingTestngxml" />
         <item itemvalue="TestNG.DataDrivenByParameterUsingTestngxml.yahooTest" />
