@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a21dbf2-6b7b-492d-b581-e708972465c5" name="Changes" comment="" />
+    <list default="true" id="1a21dbf2-6b7b-492d-b581-e708972465c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.differenttypedatadriven.test/DataDrienByPropertiesFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/differenttypedatadriven/DataDrienByPropertiesFiles.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,7 @@
       <recent name="C:\Workspace\DataDrivenTesting\src\test\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Workspace/DataDrivenTesting/testng-parameterpassfromngfile.xml">
     <configuration name="DataDrienByPropertiesFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.differenttypedatadriven.test.DataDrienByPropertiesFiles" />
       <module name="DataDrivenTesting" />
@@ -51,8 +54,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Workspace/DataDrivenTesting/testng-parameterpassfromngfile.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataDrivenTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-parameterpassfromngfile.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataDrivenByParameterUsingTestngxml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataDrivenTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.differenttypedatadriven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.differenttypedatadriven" />
+      <option name="MAIN_CLASS_NAME" value="com.differenttypedatadriven.DataDrivenByParameterUsingTestngxml" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataDrivenByParameterUsingTestngxml.yahooTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataDrivenTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.differenttypedatadriven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.differenttypedatadriven" />
+      <option name="MAIN_CLASS_NAME" value="com.differenttypedatadriven.DataDrivenByParameterUsingTestngxml" />
+      <option name="METHOD_NAME" value="yahooTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Workspace/DataDrivenTesting/testng-parameterpassfromngfile.xml" />
+        <item itemvalue="TestNG.DataDrivenByParameterUsingTestngxml" />
+        <item itemvalue="TestNG.DataDrivenByParameterUsingTestngxml.yahooTest" />
         <item itemvalue="Application.DataDrienByPropertiesFiles" />
       </list>
     </recent_temporary>

@@ -1,4 +1,4 @@
-package com.differenttypedatadriven.test;
+package com.differenttypedatadriven;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

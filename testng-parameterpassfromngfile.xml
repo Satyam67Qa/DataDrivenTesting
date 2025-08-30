@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DDT">
+    <test  name="C:/Workspace/DataDrivenTesting">
+        <parameter name="env" value="QA"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="url" value="https://www.facebook.com/login.php/"></parameter>
+        <parameter name="email" value="Email"></parameter>
+        <parameter name="pass" value="pass"></parameter>
+
+        <classes>
+            <class name="com.differenttypedatadriven.DataDrivenByParameterUsingTestngxml">
+                <methods>
+                    <include name="yahooTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
