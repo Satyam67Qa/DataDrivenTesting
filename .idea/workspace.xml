@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a21dbf2-6b7b-492d-b581-e708972465c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/TestData/ExcelFacebookReg/FacebookReg.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/TestData/ExcelFacebookReg/FacebookReg.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/excel/utility/Xls_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/excel/utility/Xls_Reader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
       <recent name="C:\Workspace\DataDrivenTesting\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExcelOperations">
+  <component name="RunManager" selected="TestNG.DDTBUsingANNOTESTNG">
     <configuration name="DDTByExcelForMultiDataOrParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.differenttypedatadriven.DDTByExcelForMultiDataOrParameter" />
       <module name="DataDrivenTesting" />
@@ -98,7 +96,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataDrivenByParameterUsingTestngxml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DDTBUsingANNOTESTNG" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DataDrivenTesting" />
       <extension name="coverage">
         <pattern>
@@ -107,7 +105,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.differenttypedatadriven" />
-      <option name="MAIN_CLASS_NAME" value="com.differenttypedatadriven.DataDrivenByParameterUsingTestngxml" />
+      <option name="MAIN_CLASS_NAME" value="com.differenttypedatadriven.DDTBUsingANNOTESTNG" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DDTBUsingANNOTESTNG" />
         <item itemvalue="Application.ExcelOperations" />
         <item itemvalue="Application.DDTByExcelForMultiDataOrParameter" />
         <item itemvalue="Application.DDTByExcelforOnlyOneTestData" />
         <item itemvalue="TestNG.C:/Workspace/DataDrivenTesting/testng-parameterpassfromngfile.xml" />
-        <item itemvalue="TestNG.DataDrivenByParameterUsingTestngxml" />
       </list>
     </recent_temporary>
   </component>
